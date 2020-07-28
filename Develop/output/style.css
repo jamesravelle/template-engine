@@ -1,0 +1,12 @@
+body{
+    background-color:aliceblue;
+}
+
+.jumbotron{
+    background-color:royalblue;
+    color:white;
+}
+
+.card{
+    margin:0 10px;
+}
