@@ -5,9 +5,9 @@ Command line app that uses node.js to create an HTML page of employees with vari
 ## Screenshots and Videos
 [Screenshot](/Walthrough/screenshot.PNG)
 
-[Walkthrough (Video)](/Walthrough/run-app.mp4)
+[Walkthrough (Video)](https://github.com/jamesravelle/template-engine/blob/master/Walkthrough/run-app.mp4)
 
-[Running Tests (Video)](/Walthrough/run-app.mp4)
+[Running Tests (Video)](https://github.com/jamesravelle/template-engine/blob/master/Walkthrough/tests.mp4)
 
 ## How to Run
 Download project, run node app.js in the Develop folder.
