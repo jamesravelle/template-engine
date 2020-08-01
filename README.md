@@ -3,7 +3,7 @@
 Command line app that uses node.js to create an HTML page of employees with various information. Using the command line, users can enter a Manager, multiple Engineers and Interns on a team and an HTML team page will be generated.
 
 ## Screenshots and Videos
-[Screenshot](/Walthrough/screenshot.PNG)
+[Screenshot](https://github.com/jamesravelle/template-engine/blob/master/Walkthrough/screenshot.PNG)
 
 [Walkthrough (Video)](https://github.com/jamesravelle/template-engine/blob/master/Walkthrough/run-app.mp4)
 
